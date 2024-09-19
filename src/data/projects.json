@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Recipe Sharing Platform",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a recipe-sharing platform allowing users to post, edit, rate, and comment on recipes, enabling full CRUD operations for the users.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT", "MySQL"],
+    "demo": "https://prathvishrecipesharing.infinityfreeapp.com/",
+    "source": "https://github.com/prathvish2003/Recipe-sharing-platform"
+  },
+  {
+    "title": "Blockchain-based Energy Grid System",
+    "imageSrc": "projects/project.png",
+    "description": " Developed a decentralized platform for energy trading using blockchain technology.",
+    "skills": ["Solidity", "Node", "Metamask", "Ganache"],
+    "demo": "https://energy-grid.vercel.app/",
+    "source": "https://github.com/prathvish2003/Energy-Grid"
+  },
+  {
+    "title": "Drug Supply Chain Management Using Blockchain Technology",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a blockchain-based system to track and verify the journey of pharmaceutical products from manufacturers to end customers, enhancing transparency and reducing counterfeit drug circulation.",
+    "skills": ["Solidity", "Node", "Metamask", "Ganache"],
+    "demo": "https://github.com/prathvish2003/Drug-supply-chain-Blockchain",
+    "source": "https://github.com/prathvish2003/Drug-supply-chain-Blockchain"
+  },
+  {
+    "title": "Portfolio Application Deployment on AWS EC2",
+    "imageSrc": "projects/project.png",
+    "description": "Developed and deployed a personal portfolio application on AWS EC2, configuring the server environment and ensuring continuous availability. Managed infrastructure and leveraged cloud technologies for scalable and reliable hosting.",
+    "skills": ["AWS", "react", "html", "css", "javascript"],
+    "demo": "https://github.com/prathvish2003/Portfolio-Application-Deployment-on-AWS-EC2",
+    "source": "https://github.com/prathvish2003/Portfolio-Application-Deployment-on-AWS-EC2"
+  }
+]
