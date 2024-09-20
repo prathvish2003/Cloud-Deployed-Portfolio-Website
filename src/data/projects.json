@@ -22,13 +22,6 @@
     "skills": ["Solidity", "Node", "Metamask", "Ganache"],
     "demo": "https://github.com/prathvish2003/Drug-supply-chain-Blockchain",
     "source": "https://github.com/prathvish2003/Drug-supply-chain-Blockchain"
-  },
-  {
-    "title": "Portfolio Application Deployment on AWS EC2",
-    "imageSrc": "projects/project.png",
-    "description": "Developed and deployed a personal portfolio application on AWS EC2, configuring the server environment and ensuring continuous availability. Managed infrastructure and leveraged cloud technologies for scalable and reliable hosting.",
-    "skills": ["AWS", "react", "html", "css", "javascript"],
-    "demo": "https://github.com/prathvish2003/Portfolio-Application-Deployment-on-AWS-EC2",
-    "source": "https://github.com/prathvish2003/Portfolio-Application-Deployment-on-AWS-EC2"
   }
+  
 ]
