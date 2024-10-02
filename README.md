@@ -1,7 +1,7 @@
 The portfolio is live and hosted on an AWS EC2 instance. You can access it using this URL:
 
 
-http://<13.60.249.101>
+http://13.60.249.101
 
 
 
